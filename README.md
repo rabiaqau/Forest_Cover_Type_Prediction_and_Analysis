@@ -1,4 +1,4 @@
-# Forest_Cover_Type_Prediction_and_Analysis
+
 # 🌲 Forest Cover Type Prediction & Analysis
 > **Deep Learning (MLP) vs. Ensemble Methods (Random Forest)**
 
