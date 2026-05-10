@@ -55,5 +55,5 @@ I compared the Neural Network against a **Random Forest Classifier** to determin
 * **Feature Engineering:** Creating interaction terms (e.g., Distance to Water * Elevation).
 * **XGBoost Integration:** Testing Gradient Boosted Trees for even higher precision.
 
-**Developed by:** [Your Name]  
-**Date:** May 2026
+**Developed by:** Rabia Shaheen 
+**Date:** 10 May 2026
